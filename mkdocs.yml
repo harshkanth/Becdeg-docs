@@ -4,7 +4,7 @@ site_url: https://becdeg.com
 theme:
   name: material
   palette:
-    - scheme: default
+    - scheme: Light
       primary: custom
       toggle:
         icon: material/toggle-switch-off-outline
