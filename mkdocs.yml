@@ -14,7 +14,8 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-  logo: Becdeg Logo.png
+  logo: About/assets/image.png
+  favicon: About/assets/image.png
   language: en
   features:
     - navigation.tabs
@@ -31,6 +32,7 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
+
 
 plugins:
   - blog
