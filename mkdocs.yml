@@ -4,7 +4,19 @@ site_url: https://becdeg.com
 theme:
   name: material
   palette:
-    primary: custom
+    primary: custom  # Custom primary color
+    # Light mode configuration
+    - scheme: Light
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
+    # Dark mode configuration
+    - scheme: dark
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
   logo: Becdeg logo.png
   favicon: Becdeg logo.png
   language: en
