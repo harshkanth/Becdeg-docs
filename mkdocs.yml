@@ -1,17 +1,24 @@
 site_name: BECDEG
 site_url: https://becdeg.com
+
+theme:
+  palette:
+    primary: custom
+extra_css:
+  - extra.css
+
 theme:
   name: material
   palette: 
 
     # Palette toggle for light mode
-    - scheme: default
+    - scheme: Light
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
 
     # Palette toggle for dark mode
-    - scheme: slate
+    - scheme: dark
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
@@ -42,8 +49,8 @@ plugins:
 
 nav:
   - Home:
-    - The Dosc Behind Docs: techdocs.md
-    - About Me: index.md
+    - The Dosc Behind Docs: index.md
+    - About Me: techdocs.md
   - Tags: tags.md
 
 markdown_extensions:

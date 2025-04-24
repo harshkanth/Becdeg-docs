@@ -1,0 +1,26 @@
+/* ===============================
+   Light Mode Custom Colors
+================================== */
+[data-md-color-scheme="Light"] {
+    --md-primary-fg-color: #3F51B5;     /* Indigo */
+    --md-primary-bg-color: #FFFFFF;
+    --md-accent-fg-color: #00BFA5;     /* Teal */
+    --md-default-bg-color: #FFFFFF;
+    --md-default-fg-color: #212121;    /* Dark gray for text */
+    --md-code-bg-color: #F5F5F5;
+    --md-code-fg-color: #263238;
+    --md-border-color: #E0E0E0;
+  }
+  
+  /* ===============================
+     Dark Mode Custom Colors
+  ================================== */
+  [data-md-color-scheme="dark"] {
+    --md-primary-fg-color: #7986CB;     /* Indigo soft */
+    --md-accent-fg-color: #00DAC6;      /* Teal soft */
+    --md-default-fg-color: #E0E0E0;     /* Light text */
+    --md-default-bg-color: #1E1E1E;     /* Soft dark, not pure black */
+    --md-code-bg-color: #2E2E2E;
+    --md-code-fg-color: #ECEFF1;
+  }
+  
