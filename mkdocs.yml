@@ -1,4 +1,5 @@
 site_name: BECDEG
+site_url: https://becdeg.com
 theme:
   name: material
   palette: 
