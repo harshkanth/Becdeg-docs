@@ -15,8 +15,8 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-  logo: About/assets/image.png
-  favicon: About/assets/image.png
+  logo: Becdeg logo.png
+  favicon: Becdeg logo.png
   language: en
   features:
     - navigation.tabs
@@ -25,7 +25,6 @@ theme:
     - navigation.instant.progress
     - navigation.instant.preview
     - navigation.tracking
-    - navigation.sections
     - navigation.expand
     - navigation.path
     - toc.follow
@@ -42,9 +41,9 @@ plugins:
 
 
 nav:
-  - Home: index.md
-  - About: About/About me.md
-  - Blog: blog/index.md
+  - Home:
+    - The Dosc Behind Docs: techdocs.md
+    - About Me: index.md
   - Tags: tags.md
 
 markdown_extensions:
