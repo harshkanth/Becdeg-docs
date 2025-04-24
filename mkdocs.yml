@@ -5,15 +5,13 @@ theme:
   name: material
   palette:
     primary: custom  # Custom primary color
-    # Light mode configuration
-    - scheme: Light
-      toggle:
+    -scheme: Light
+    toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
 
-    # Dark mode configuration
-    - scheme: dark
-      toggle:
+    -scheme: dark
+    toggle:
         icon: material/toggle-switch
         name: Switch to light mode
 
