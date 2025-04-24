@@ -5,4 +5,4 @@ tags:
 
 ...
 # Who am I?
-A young Technical Writer.
+A young Technical Writer. WHo creates content.
