@@ -1,3 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://becdeg.com/</loc>
+         <lastmod>2025-04-24</lastmod>
+    </url>
+    <url>
+         <loc>https://becdeg.com/tags/</loc>
+         <lastmod>2025-04-24</lastmod>
+    </url>
+    <url>
+         <loc>https://becdeg.com/About/About%20me/</loc>
+         <lastmod>2025-04-24</lastmod>
+    </url>
+    <url>
+         <loc>https://becdeg.com/blog/</loc>
+         <lastmod>2025-04-24</lastmod>
+    </url>
 </urlset>
