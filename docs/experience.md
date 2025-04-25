@@ -8,8 +8,7 @@ With over **10 years of diverse experience**, I've worked as a Technical Writer,
 
 ### 🏢 OneShield Software (India)
 **Role:** Lead Technical Writer  
-**Duration:** March 2023 – Jan 2025
-**Location:** India (Remote & On-site)  
+**Duration:** March 2023 – Jan 2025  
 **Key Contributions:**
 - Led documentation for insurance core systems and AI-based metadata platforms
 - Worked on JSON/XML schemas, CI/CD docs (Jenkins, Bamboo, JFrog, Nexus)
@@ -29,7 +28,7 @@ With over **10 years of diverse experience**, I've worked as a Technical Writer,
 
 ---
 
-### 🏢 Ushta Te Consultancy at Microsoft
+### 🏢  Microsoft
 **Role:** Technical Writer, Tester, and Proofreader  
 **Duration:** Aug 2021 – Jan 2022  
 **Key Contributions:**

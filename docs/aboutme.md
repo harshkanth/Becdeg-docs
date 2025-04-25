@@ -1,3 +1,9 @@
+---
+tags:
+  - Technical Writer
+---
+
+...
 # About Me
 
 Hi, I'm **Harsh Kanth** — a **Senior Technical Writer**, **Content Strategist**, and **Documentation Specialist** with **10 years of experience** building world-class content systems for companies across domains like **SaaS, AI, fintech, e-commerce, insurtech, cloud, and retail tech**.
@@ -6,7 +12,7 @@ I create documentation and content that bridges complexity and clarity — enabl
 
 That’s me:
 
-![My image](Myimage.png){width=200px}
+![My image](Myimage.png){width=300px}
 
 ---
 

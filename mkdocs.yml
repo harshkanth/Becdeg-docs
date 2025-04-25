@@ -1,4 +1,4 @@
-site_name: BECDEG
+site_name: Documentation Platform
 site_url: https://becdeg.com
 
 theme:
@@ -15,8 +15,8 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
 
-  logo: becdegl.jpg
-  favicon: becdegl.jpg
+  logo: bgm.png
+  favicon: beclogo.png
   language: en
   features:
     - navigation.tabs
@@ -34,6 +34,8 @@ theme:
 
 extra_css:
   - extra.css
+extra_javascript:
+  - https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap
 
 plugins:
   - search
