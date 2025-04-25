@@ -44,6 +44,7 @@ nav:
   - Home:
       - The Docs Behind Docs: index.md
       - About Me: techdocs.md
+      - Why BECDEG?: whybecdeg.md
   - Tags: tags.md
 
 markdown_extensions:
