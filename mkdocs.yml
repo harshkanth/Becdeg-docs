@@ -9,7 +9,7 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-    - scheme: slate
+    - scheme: dark
       primary: custom
       toggle:
         icon: material/toggle-switch
@@ -25,7 +25,6 @@ theme:
     - navigation.instant.progress
     - navigation.instant.preview
     - navigation.tracking
-    - navigation.expand
     - navigation.path
     - toc.follow
     - navigation.top
