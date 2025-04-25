@@ -10,8 +10,11 @@ With over **10 years of experience**, I’ve led and delivered end-to-end docume
 
 In today’s digital-first ecosystem, documentation is no longer an afterthought — it's a product, a brand experience, and a strategic asset.
 
-This site was built to:
+  **I created this site to:**
 
+- Showcase my ability to own the  **entire documentation lifecycle** — from **initial planning** and **architecture** to **final publishing** and **optimization**
+- Demonstrate my comfort across documentation platforms,** Git-based workflows**,** theming**, **SEO**, and **developer tools**
+- Provide a live example of how I approach documentation design — **user-first**, **scalable**, and **technically sound**
 - Demonstrate **how I think about documentation** — not just what I write  
 - Share examples of my real-world work, structure, and problem-solving  
 - Offer **clients, recruiters, and collaborators** a first-hand look at the quality of content I deliver  

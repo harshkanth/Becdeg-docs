@@ -33,17 +33,17 @@ Every article, document, or strategy I create is guided by the values that BECDE
 
 ## How BECDEG Shapes My Work
 
-### **1. Writing with Depth and Intention**
+### **Writing with Depth and Intention**
 
 As a **content writer**, I don’t just write to inform — I write to *connect*.  
 Every piece is designed to resonate emotionally, to make the reader feel seen and understood. That voice — calm, confident, and personal — comes from years of learning through the presence of my companions.
 
-### **2. Strategy with Soul**
+### **Strategy with Soul**
 
 As a **content strategist**, I create systems that don’t just function — they *mean* something.  
 Whether it’s crafting messaging architecture or aligning tone with brand personality, I approach every strategy through the lens of purpose and impact. The spirit of BECDEG reminds me to create with heart, not just logic.
 
-### **3. Documenting with Care**
+### **Documenting with Care**
 
 This site itself — built using **MkDocs** — is an example of how even technical or professional documentation can be beautiful and human.  
 From UX writing to SOPs, I believe that every document should feel like it was written *for* someone, not just at them.
