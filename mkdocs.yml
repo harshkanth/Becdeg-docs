@@ -42,9 +42,11 @@ plugins:
 nav:
   - Home:
       - The Docs Behind Docs: index.md
-      - About Me: techdocs.md
+      - About Me: aboutme.md
       - Why BECDEG?: whybecdeg.md
-  - Service: services.md
+  - Experiences: experience.md
+  - Services: services.md
+  - Contact: contact.md
   - Tags: tags.md
 
 markdown_extensions:

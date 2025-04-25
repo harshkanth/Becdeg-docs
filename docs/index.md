@@ -1,53 +1,81 @@
 # Welcome to My Documentation Portfolio
 
-This site is a curated collection of my work as a **Technical Writer**, **Content Strategist**, and **Documentation Specialist** — designed to showcase the quality, depth, and versatility of the content I create.
+This site is a curated collection of my work as a **Technical Writer**, **Content Strategist**, **UX Writer**, and **Documentation Specialist** — designed to showcase the depth, precision, and versatility of the content I create.
 
-Over the past **10 years**, I've helped companies simplify complexity, craft scalable documentation systems, and elevate user experience through precise, user-first content. Whether you're a **company looking to hire** a documentation expert, or a **client seeking a partner** to develop high-quality content for your product or platform — you're in the right place.
+With over **10 years of experience**, I’ve led and delivered end-to-end documentation for Fortune 500s, product startups, agencies, and cross-functional tech teams. From building doc systems for **Microsoft Teams** to creating platform-wide architecture content for **OneShield**, this portfolio reflects how I simplify complexity and structure knowledge at scale.
 
 ---
 
 ## Why This Portfolio Exists
 
-In today's fast-paced digital landscape, content is more than just text — it's a product. Good documentation improves usability, reduces support costs, and builds trust. This site demonstrates my ability to:
+In today’s digital-first ecosystem, documentation is no longer an afterthought — it's a product, a brand experience, and a strategic asset.
 
-- Create well-structured technical and product documentation  
-- Design content strategies that scale with your business  
-- Write with clarity, empathy, and a deep understanding of user needs  
-- Use modern tools (MkDocs, Git, CI/CD, and more) to build docs the right way
+This site was built to:
+
+- Demonstrate **how I think about documentation** — not just what I write  
+- Share examples of my real-world work, structure, and problem-solving  
+- Offer **clients, recruiters, and collaborators** a first-hand look at the quality of content I deliver  
+- Show my comfort with tools like **MkDocs**, **Markdown**, **Git**, and CI/CD environments — all of which I use daily
+
+I’ve built documentation for AI/ML systems, SDKs, API platforms, image recognition tools, insurance products, and fintech apps — and I understand how content aligns with product design, engineering workflows, and user psychology.
 
 ---
 
 ## What You’ll Find Here
 
-- 📄 **Sample Guides & Tutorials**: Realistic examples of user manuals, onboarding flows, and how-to docs  
-- 🔍 **API & Developer Docs**: Reference docs and guides built with clarity and developer usability in mind  
-- 🧠 **Content Strategy & Architecture Samples**: Structuring and planning documentation systems  
-- ✍️ **UX & Microcopy Samples**: Interface writing that complements product flows and improves UX  
-- 📚 **Process Documentation**: Internal wikis, knowledge bases, and ops documentation
+This site includes select samples across different documentation categories:
 
-Each section has been handpicked to reflect not only what I write, but how I think — with attention to structure, intent, and the user’s journey.
+- 📄 **Sample Guides & Tutorials**: End-user docs, onboarding flows, and system walkthroughs  
+- 🔍 **Developer Docs & API References**: Technical docs focused on usability and clarity  
+- 🧠 **Content Strategy Artifacts**: Taxonomy plans, documentation frameworks, editorial workflows  
+- ✍️ **UX & Microcopy Writing**: Interface language for onboarding, modals, tooltips, and alerts  
+- 🛠️ **Process & SOP Documentation**: Internal wikis, operational runbooks, and training content  
+- 📚 **Proofreading & QA Workflows**: Peer-review checklists, editorial feedback systems, and template-driven authoring
+
+Each item is curated to reflect how I approach **structure, clarity, and intent** — putting users at the center of every sentence.
+
+---
+
+## Industries I've Worked In
+
+Over the years, I’ve created documentation across:
+
+- ✅ SaaS & Platform Services  
+- ✅ AI / ML / Image Recognition  
+- ✅ Fintech & Insurtech  
+- ✅ RPA (Robotic Process Automation)
+- ✅ Retail Tech & Autonomous Stores  
+- ✅ Automotive UX  
+- ✅ Cloud Tools, SDKs & API Products  
+- ✅ E-commerce, EdTech, and Consumer Platforms
+- ✅ Healthcare
+- ✅Aviation
+
+This site includes samples from those experiences — adapted or recreated for confidentiality, where needed.
 
 ---
 
 ## Who I Work With
 
-I collaborate with:
+I’ve partnered with:
 
-- 🔹 **Product teams** that need scalable documentation as part of their growth strategy  
-- 🔹 **Startups** that want to create powerful first impressions through onboarding and docs  
-- 🔹 **Agencies** looking for reliable documentation support across multiple products  
-- 🔹 **Tech companies** seeking long-term technical writing and content leadership
+- 🔹 **Global tech companies** like Microsoft, Amazon, and BMW  
+- 🔹 **Startups and product teams** building their first documentation layer  
+- 🔹 **Agencies and consulting firms** seeking technical or branded content support  
+- 🔹 **Cross-functional teams** including PMs, developers, designers, and analysts
 
-Whether it's a short-term engagement or a long-term collaboration, I bring consistency, expertise, and a deep respect for content as a craft.
+I bring structured systems, empathetic writing, and deep documentation insight into every project — from MVP to enterprise-scale platforms.
 
 ---
 
 ## Let’s Work Together
 
-I’m currently open to both **full-time opportunities** and **freelance or project-based collaborations**. If you’re looking for someone who can build, lead, or optimize your documentation efforts — reach out!
+Whether you need someone to **build a documentation system from scratch**, **lead a team of writers**, or simply **write with clarity and consistency** — I can help.
 
-📫 **[Your contact details or CTA button here]**
+📫 Reach out via 
+ the [Contact](contact.md) page, [Chat with me on WhatsApp](https://wa.me/917827620848), or Connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-kanth-53974164/).
 
 ---
 
-Thanks for stopping by. Feel free to explore, click around, and see what good documentation looks like in action.
+Thanks for stopping by.  
+Explore the sections, click around, and see what clear, scalable documentation looks like in action.
