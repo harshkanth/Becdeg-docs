@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://becdeg.com/</loc>
-         <lastmod>2025-04-24</lastmod>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
          <loc>https://becdeg.com/tags/</loc>
-         <lastmod>2025-04-24</lastmod>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
          <loc>https://becdeg.com/techdocs/</loc>
-         <lastmod>2025-04-24</lastmod>
+         <lastmod>2025-04-25</lastmod>
+    </url>
+    <url>
+         <loc>https://becdeg.com/whybecdeg/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
          <loc>https://becdeg.com/blog/</loc>
-         <lastmod>2025-04-24</lastmod>
+         <lastmod>2025-04-25</lastmod>
     </url>
 </urlset>
