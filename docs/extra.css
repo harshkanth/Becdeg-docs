@@ -2,25 +2,75 @@
    Light Mode Custom Colors
 ================================== */
 [data-md-color-scheme="Light"] {
+    --md-primary-fg-color: #268A8C; /* Ocean Teal */
+    --md-primary-fg-color--light: #4FB8B2;
+    --md-primary-fg-color--dark: #1D5E60;
+  
+    --md-accent-fg-color: #F47C7C; /* Dusty Coral */
+  
+    --md-default-bg-color: #F5F7FA; /* Mist White */
+    --md-default-fg-color: #33373A; /* Deep Slate */
+    --md-typeset-color: #2D2D2D; /* Body Text */
+  
+    --md-footer-bg-color: #EBECF0; /* Soft Lilac Grey */
+    --md-footer-fg-color: #333;
+  
+    --md-typeset-a-color: #268A8C;
+    --md-typeset-a-hover-color: #F47C7C;
+  
+    --md-code-bg-color: #2D3142; /* Subtle Navy */
+    --md-code-fg-color: #A8E6CF; /* Seafoam Green */
+  
+    --md-typeset-table-color: #1E1E2E;
+  }
+  
+  /* Navigation Menus */
+  .md-nav {
+    background-color: #FFFFFF;
+    color: #2D2D2D;
+  }
+  .md-nav__title, .md-nav__link {
+    color: #2D2D2D;
+  }
+  .md-nav__link:hover {
+    color: #F47C7C;
+  }
+  
+  /* ====== DARK MODE COLORS ====== */
+  [data-md-color-scheme="slate"] {
     --md-primary-fg-color: #268A8C;
-    --md-primary-bg-color: #FFFFFF;
-    --md-accent-fg-color: #00BFA5;     /* Teal */
-    --md-default-bg-color: #FFFFFF;
-    --md-default-fg-color: #212121;    /* Dark gray for text */
-    --md-code-bg-color: #F5F5F5;
-    --md-code-fg-color: #263238;
-    --md-border-color: #E0E0E0;
+    --md-accent-fg-color: #F47C7C;
+  
+    --md-default-bg-color: #1E1E2E; /* Rich Charcoal */
+    --md-default-fg-color: #E0E0E0; /* Pale Silver */
+    --md-typeset-color: #D1D1D1;
+  
+    --md-footer-bg-color: #2D3142;
+    --md-footer-fg-color: #E0E0E0;
+  
+    --md-typeset-a-color: #A8E6CF;
+    --md-typeset-a-hover-color: #F47C7C;
+  
+    --md-code-bg-color: #2A2D3E;
+    --md-code-fg-color: #A8E6CF;
+  
+    --md-typeset-table-color: #3A3A3A;
   }
   
-  /* ===============================
-     Dark Mode Custom Colors
-  ================================== */
-  [data-md-color-scheme="dark"] {
-    --md-primary-fg-color: #7986CB;     /* Indigo soft */
-    --md-accent-fg-color: #00DAC6;      /* Teal soft */
-    --md-default-fg-color: #E0E0E0;     /* Light text */
-    --md-default-bg-color: #000000;/* Soft dark, not pure black */
-    --md-code-bg-color: #2E2E2E;
-    --md-code-fg-color: #ECEFF1;
+  .md-typeset h1,
+  .md-typeset h2,
+  .md-typeset h3,
+  .md-typeset h4,
+  .md-typeset h5 {
+    color: var(--md-typeset-color);
   }
   
+  .md-header {
+    background-color: var(--md-primary-fg-color);
+    color: white;
+  }
+  .md-header__button,
+  .md-header__topic,
+  .md-search__input {
+    color: white;
+  }
