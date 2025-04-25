@@ -50,13 +50,6 @@ With over **10 years of diverse experience**, I've worked as a Technical Writer,
 
 ---
 
-### 🏢 Good Ease Retail Pvt. Ltd.
-**Role:** Content Writer, Copy Editor  
-**Duration:** April 2019  
-**Key Note:** Left early due to non-payment across departments
-
----
-
 ## 🛠️ Freelance & Remote Work
 
 ### 🔹 EXL (Current Contract)
