@@ -38,7 +38,7 @@
   }
   
   /* ===== DARK MODE COLORS ===== */
-  [data-md-color-scheme="dark"] {}
+  [data-md-color-scheme="dark"] {
     --md-primary-fg-color: #268A8C;
     --md-accent-fg-color: #F47C7C;
   
