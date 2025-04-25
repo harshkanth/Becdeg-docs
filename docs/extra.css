@@ -30,7 +30,7 @@
 .md-header .md-logo {
     display: block !important;             /* Make sure it's treated as a block element */
     max-width: 100% !important;            /* Prevent overflowing */
-    width: 70px !important;               /* Force width to 550px */
+    width: 50px !important;               /* Force width to 550px */
     height: auto !important;               /* Maintain aspect ratio */
     margin: 10px auto !important;          /* Center the logo with spacing */
     padding: 0 !important;                 /* Remove any padding */
