@@ -68,17 +68,28 @@ This journey spans global MNCs, fast-paced startups, US-based agencies, and deep
 
 ---
 
-### 🔹 Touch'N'Go (Malaysia)
-**Role:** UX Writer and Documentation Consultant  
+### Touch'N'Go (Malaysia)  
+**Role:** Technical Writer and Documentation Consultant  
 **Domain:** Fintech  
 
 **Scope:**
-- Wrote UX microcopy, onboarding flows, SOPs, and customer support documentation for a mobile wallet application
-- Collaborated with UI/UX designers, PMs, and product teams
+- Created UX microcopy, onboarding flows, standard operating procedures (SOPs), and customer support documentation for a mobile wallet application.
+- Collaborated closely with UI/UX designers, project managers (PMs), and product teams to ensure the consistency and clarity of documentation.
+- Developed user-friendly content aimed at improving the overall customer experience within the mobile wallet application.
+- Streamlined internal communication by writing concise guides for internal stakeholders on troubleshooting, usage, and updates.
 
 ---
 
-### 🔹 BMW USA
+### Fusioni Technologies
+**Role:** Technical Writer and Editor  
+**Duration:** Sep 2018 – Mar 2019  
+
+**Scope:**
+- Created technical documentation, product overviews, and marketing content for SaaS and retail tech platforms
+
+---
+
+### BMW USA
 **Role:** Content Writer (Ghostwriting)  
 **Duration:** May 2018 – Oct 2018  
 
@@ -87,7 +98,7 @@ This journey spans global MNCs, fast-paced startups, US-based agencies, and deep
 
 ---
 
-### 🔹 Amazon
+### Amazon
 **Role:** Product Writer (Ghostwriting)  
 **Duration:** Sep 2018 – Mar 2019  
 
@@ -96,7 +107,7 @@ This journey spans global MNCs, fast-paced startups, US-based agencies, and deep
 
 ---
 
-### 🔹 Western Union USA
+### Western Union USA
 **Role:** Finance Content Writer  
 **Duration:** Nov 2017 – Sep 2018  
 
@@ -105,7 +116,7 @@ This journey spans global MNCs, fast-paced startups, US-based agencies, and deep
 
 ---
 
-### 🔹 ShoutVox (New York, USA)
+### ShoutVox (New York, USA)
 **Role:** Writer, Editor, Technical Blogger  
 **Duration:** Apr 2016 – Jun 2019  
 
@@ -115,7 +126,7 @@ This journey spans global MNCs, fast-paced startups, US-based agencies, and deep
 
 ---
 
-### 🔹 Horizon Hobby LLC
+### Horizon Hobby LLC
 **Role:** Remote Technical Writer  
 **Duration:** Sep 2015 – Nov 2016  
 
@@ -124,7 +135,7 @@ This journey spans global MNCs, fast-paced startups, US-based agencies, and deep
 
 ---
 
-### 🔹 The Road to Domestication
+### The Road to Domestication
 **Role:** Lifestyle Content Writer  
 **Duration:** Dec 2016 – Oct 2017  
 
@@ -133,14 +144,6 @@ This journey spans global MNCs, fast-paced startups, US-based agencies, and deep
 
 ---
 
-### 🔹 Fusioni Technologies
-**Role:** Technical Writer and Editor  
-**Duration:** Sep 2018 – Mar 2019  
-
-**Scope:**
-- Created technical documentation, product overviews, and marketing content for SaaS and retail tech platforms
-
----
 
 ## 🌐 Domains I Have Worked In
 

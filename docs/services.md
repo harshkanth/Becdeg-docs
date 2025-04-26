@@ -97,12 +97,12 @@ Documentation leadership means enabling others — I create systems for sustaina
 
 ## 🌐 Domains I Work In
 
-- ✅ SaaS & Platform Services  
-- ✅ AI / ML / Automation / Metadata  
-- ✅ Fintech & Insurtech  
-- ✅ Retail Tech, Image Recognition, AR/VR  
-- ✅ Automotive UX & Cloud Infrastructure  
-- ✅ E-commerce, Education, and Consumer Tech
+- SaaS & Platform Services  
+- AI / ML / Automation / Metadata  
+- Fintech & Insurtech  
+- Retail Tech, Image Recognition, AR/VR  
+- Automotive UX & Cloud Infrastructure  
+- E-commerce, Education, and Consumer Tech
 
 ---
 
