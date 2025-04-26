@@ -48,7 +48,12 @@ nav:
       - Why BECDEG?: whybecdeg.md
   - Documentation:
       - User Manuals: user-manuals.md
-      - Step by Step Guides: Step-by-step-guides.md
+      - Step by Step Guides: 
+          - Saas: 
+              - Download and Install MS Teams Application: download_and _install_msteams.md
+      - How to? Guides: 
+          - Saas:
+              - How to Schedule a meeting in MS Teams Application: schedule_meeting_in_teams.md
       - APIs: APIs.md
       - Business User Guides: business-user-guides.md
       - Case Studies: case-studies.md
