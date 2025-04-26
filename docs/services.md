@@ -6,114 +6,116 @@ From building full-scale documentation systems to writing SEO blogs, UX microcop
 
 ---
 
-## 🛠️ Technical Documentation
+## 🛠️ Technical documentation
 
-I specialize in simplifying complexity — creating structured, scalable technical documentation that serves both users and developers.
+Delivering structured, scalable technical content.
 
-**Deliverables:**
-- End-user manuals, feature guides, portal & server docs  
-- CI/CD documentation (Jenkins, Bamboo, JFrog, Nexus)  
-- AI/ML platform guides, metadata schema docs  
-- Architecture diagrams, Camtasia-based training modules  
-- Release notes, SDK guides, and executive summaries  
-- Application & portal docs, SOPs, and image recognition systems  
-- Collaboration with Devs, QA, PMs, SMEs, and UI/UX teams
+**Deliverables include:**
+- End-user manuals, feature guides, and server documentation
+- CI/CD documentation for Jenkins, Bamboo, JFrog, and Nexus
+- AI/ML platform guides and metadata schema documentation
+- Architecture diagrams and training videos
+- Release notes, SDK guides, and executive summaries
+- Standard operating procedures (SOPs) and internal knowledge bases
 
 **Tools:** GitHub, Markdown, SharePoint, Confluence, Azure DevOps, LMS, Camtasia
 
 ---
 
-## 🔍 API & Developer Documentation
+## 🔍 API, SDK, and developer documentation
 
-Developer-first documentation that speaks clearly, integrates easily, and scales with product complexity.
+Creating developer-focused, integration-ready content.
 
-**Services include:**
-- API references (REST, GraphQL), Postman collections  
-- Swagger/OpenAPI documentation  
-- SDK integration guides and JSON/XML schema walkthroughs  
-- Microsoft Teams docs using MS Style Guide  
-- Authentication workflows and step-by-step code guides  
-- Dev tool documentation and Azure authentication docs
+**Deliverables include:**
+- API references (REST, GraphQL) and Postman collections
+- Swagger/OpenAPI documentation
+- SDK integration and onboarding guides
+- Authentication workflows and identity management documentation
+- Microsoft Teams documentation aligned with Microsoft Style Guide standards
 
-**Sample:**  
-- [Microsoft Teams SSO Auth Doc](https://docs.microsoft.com/en-us/microsoftteams/platform/bots/how-to/authentication/auth-aad-sso-bots)
-
----
-
-## 🧠 Content Strategy & Architecture
-
-I design documentation systems that scale — from structure to governance.
-
-**What I bring:**
-- Documentation architecture, version control & repository planning  
-- CMS migration strategies, static-to-dynamic content pipelines  
-- Custom templates for user guides, SDK docs, and knowledge bases  
-- Editorial governance systems and review workflows  
-- Project management for doc launches (Agile/SDLC, DDLC cycles)
-
-**Tools:** GitHub, SharePoint, Notion, Azure DevOps, Trello
+**Example:**  
+- [Microsoft Teams SSO Authentication Documentation](https://learn.microsoft.com/en-us/microsoftteams/platform/bots/how-to/authentication/auth-aad-sso-bots)
 
 ---
 
-## ✍️ UX Writing & Microcopy
+## 🧠 Content strategy and documentation architecture
 
-I write for the interface with empathy and clarity — making product experiences seamless and human.
+Building sustainable, scalable documentation ecosystems.
 
-**Deliverables:**
-- Tooltips, onboarding flows, modals, alerts, and CTAs  
-- Mobile UX copy (Touch'N'Go), fintech microcopy, and web UIs  
-- Error messages, confirmation dialogs, and empty state content  
-- Writing for AR/VR and autonomous retail platforms
-
----
-
-## 📢 Content Writing (B2B, B2C & SEO)
-
-Clear, brand-aligned writing for web, marketing, and product storytelling.
-
-**Writing Scope:**
-- SEO blogs, whitepapers, case studies  
-- Landing pages, product descriptions, requirement docs  
-- Ghostwriting for Amazon, BMW USA, Western Union  
-- Content audits, keyword planning, and analytics-based writing  
-- Tone consistency across cross-channel platforms
-
-**Tools:** WordPress, Google Docs, SEMrush, Grammarly, Figma
+**Deliverables include:**
+- Documentation architecture planning and repository setup
+- CMS migrations and taxonomy design
+- Custom templates for technical documentation
+- Governance systems, style guides, and quality control frameworks
+- Agile documentation project management (SDLC, CI/CD cycles)
 
 ---
 
-## 📚 Internal Docs, Training & Team Enablement
+## ✍️ UX writing and microcopy
 
-Documentation leadership means enabling others — I create systems for sustainability.
+Writing user-centered product content.
 
-**Team-focused content:**
-- Internal wikis, knowledge bases, and SOPs  
-- Camtasia-based training videos and LMS content  
-- Peer reviews, doc QA, feedback systems, and team mentoring  
-- Template creation for cross-team consistency  
-- Collaboration across BA, UI, QA, PM, UAT, and Dev teams globally
-
----
-
-## 🌐 Domains I Work In
-
-- SaaS & Platform Services  
-- AI / ML / Automation / Metadata  
-- Fintech & Insurtech  
-- Retail Tech, Image Recognition, AR/VR  
-- Automotive UX & Cloud Infrastructure  
-- E-commerce, Education, and Consumer Tech
+**Deliverables include:**
+- Onboarding flows, CTAs, modals, alerts, and tooltips
+- Error messages, empty states, and recovery flows
+- Microcopy for fintech, SaaS, e-commerce, and AR/VR platforms
+- Accessible UX copy (aligned with WCAG 2.1)
 
 ---
 
-## 🤝 Engagement Models
+## 📢 B2B, B2C, and SEO content writing
 
-- 🔧 Full-time & long-term strategic roles  
-- 🛠 Contract-based & freelance support  
-- 🧭 Documentation architecture consulting  
-- 🧑‍🏫 Content leadership and team mentoring  
-- ✍️ Short-term technical writing or UX copy projects
+Delivering brand-aligned, analytics-driven content.
 
-If you’re looking to **build, scale, or elevate your documentation**, let’s talk.
+**Deliverables include:**
+- SEO blogs, whitepapers, and case studies
+- Landing pages and product descriptions
+- Requirement documentation and RFP content
+- Ghostwriting for major brands
+- Content audits, keyword planning, and SEO optimization
 
-📫 Visit the [Contact](contact.md) page to connect directly.
+---
+
+## 🧩 Internal documentation, training, and team enablement
+
+Developing internal knowledge management systems.
+
+**Deliverables include:**
+- SOPs, internal wikis, and playbooks
+- Training videos and LMS course material
+- Documentation quality assurance (QA) systems
+- Cross-functional collaboration with development and product teams
+
+---
+
+## 🧭 Executive communications and leadership documentation
+
+Supporting strategic communications across teams.
+
+**Deliverables include:**
+- Executive summaries and leadership updates
+- Strategic documentation for internal and external stakeholders
+- Client presentation content and board reports
+
+---
+
+## 🌐 Industries served
+
+- SaaS, platform services, and cloud infrastructure
+- AI, ML, automation, and metadata
+- Fintech, banking, and insurtech
+- Retail technology, AR/VR, and e-commerce
+- Automotive UX and smart mobility
+- Education technology and consumer applications
+
+---
+
+## 🤝 Engagement models
+
+- Full-time and strategic consulting roles
+- Contract and freelance project support
+- Documentation system design and architecture
+- Content leadership and mentorship
+- Specialized technical and UX writing engagements
+
+📫 Visit the [Contact](contact.md) page to connect.

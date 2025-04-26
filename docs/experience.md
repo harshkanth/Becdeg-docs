@@ -58,7 +58,7 @@ This journey spans global MNCs, fast-paced startups, US-based agencies, and deep
 
 ## 🛠️ Freelance and Remote Work
 
-### 🔹 EXL (Current Contract)
+### EXL (Current Contract)
 **Role:** Senior Technical Writer  
 **Domain:** AI, analytics, automation  
 
