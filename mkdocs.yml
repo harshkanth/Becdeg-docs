@@ -1,4 +1,4 @@
-site_name: DocSuite
+site_name: Doc Studio
 site_url: https://becdeg.com
 
 theme:
@@ -46,6 +46,12 @@ nav:
       - The Docs Behind Docs: index.md
       - About Me: aboutme.md
       - Why BECDEG?: whybecdeg.md
+  - Documentation:
+      - User Manuals: user-manuals.md
+      - Step by Step Guides: Step-by-step-guides.md
+      - APIs: APIs.md
+      - Business User Guides: business-user-guides.md
+      - Case Studies: case-studies.md
   - Experiences: experience.md
   - Services: services.md
   - Contact: contact.md

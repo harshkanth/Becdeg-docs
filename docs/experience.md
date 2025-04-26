@@ -1,6 +1,7 @@
 # Professional Experience
 
-With over **10 years of diverse experience**, I've worked as a Technical Writer, Documentation Strategist, UX Writer, Editor, and Content Consultant. This journey spans global MNCs, fast-paced startups, US-based agencies, and deeply technical freelance assignments.
+With over **10 years of diverse experience**, I have worked as a **technical writer**, **documentation strategist**, **UX writer**, **editor**, and **content consultant**.  
+This journey spans global MNCs, fast-paced startups, US-based agencies, and deeply technical freelance assignments.
 
 ---
 
@@ -9,32 +10,35 @@ With over **10 years of diverse experience**, I've worked as a Technical Writer,
 ### 🏢 OneShield Software (India)
 **Role:** Lead Technical Writer  
 **Duration:** March 2023 – Jan 2025  
+
 **Key Contributions:**
-- Led documentation for insurance core systems and AI-based metadata platforms
-- Worked on JSON/XML schemas, CI/CD docs (Jenkins, Bamboo, JFrog, Nexus)
-- Created manuals, release notes, executive summaries, and training videos (Camtasia)
-- Managed team workflows via Azure DevOps; peer-reviewed and mentored tech writers
+- Led documentation for insurance core systems, AI metadata platforms, and SaaS solutions
+- Developed JSON/XML schema documentation and CI/CD pipeline guides (Jenkins, Bamboo, JFrog, Nexus)
+- Authored manuals, release notes, executive summaries, and training videos (Camtasia)
+- Peer-reviewed content, mentored junior technical writers, and streamlined Azure DevOps workflows
 
 ---
 
 ### 🏢 Vision Group Retail Technologies Pvt. Ltd.
-**Role:** Sr. Technical Writer, Document Owner, Business Analyst  
+**Role:** Senior Technical Writer, Document Owner, Business Analyst  
 **Duration:** Jan 2022 – Feb 2023  
+
 **Key Contributions:**
-- Overhauled documentation systems across 4 subsidiaries
-- Delivered SDK guides, AI/ML system docs, API references, release notes, and UI/UX guides
-- Introduced standardized templates and led BA/writer teams
-- Migrated documentation into CMS; drove cross-functional collaborations
+- Overhauled documentation systems across 4 subsidiaries (Retail Tech, AI/ML, AR/VR)
+- Delivered SDK guides, developer documentation, API references, and UX/UI content
+- Introduced documentation templates, style guides, and taxonomy structures
+- Migrated siloed content into CMS and Git repositories, improving collaboration and discoverability
 
 ---
 
-### 🏢  Microsoft
-**Role:** Technical Writer, Tester, and Proofreader  
+### 🏢 Microsoft (via Ushta Te)
+**Role:** Technical Writer, Tester, Proofreader  
 **Duration:** Aug 2021 – Jan 2022  
+
 **Key Contributions:**
-- Authored Microsoft Teams platform docs using Microsoft Style Guide
-- Collaborated with MS developers, SMEs, and PMs to deliver developer-centric step-by-steps
-- Maintained content in ADO, created SEO content, and conducted backend review/testing  
+- Authored Microsoft Teams platform documentation using the Microsoft Style Guide
+- Collaborated with developers, PMs, and SMEs to deliver developer-focused content
+- Managed SEO optimization, backend content testing, and quality assurance workflows
 - Sample work:  
   [Microsoft Teams SSO Guide](https://docs.microsoft.com/en-us/microsoftteams/platform/bots/how-to/authentication/auth-aad-sso-bots)
 
@@ -43,97 +47,121 @@ With over **10 years of diverse experience**, I've worked as a Technical Writer,
 ### 🏢 PCC Softech Pvt. Ltd.
 **Role:** Technical Content Writer, Editor, Proofreader  
 **Duration:** June 2019 – June 2021  
+
 **Key Contributions:**
-- Created web content for PCC Softech, PCC Wireless, T-Mobile USA, and education platforms
-- SEO blogs, product pages, whitepapers, and social media content
-- Followed Chicago Manual of Style, collaborated with web and dev teams
+- Created SEO-driven web content for T-Mobile USA, PCC Wireless, and education platforms
+- Produced product descriptions, blogs, whitepapers, and marketing collateral
+- Ensured editorial consistency based on the Chicago Manual of Style
+- Worked closely with development and web teams for content alignment
 
 ---
 
-## 🛠️ Freelance & Remote Work
+## 🛠️ Freelance and Remote Work
 
 ### 🔹 EXL (Current Contract)
 **Role:** Senior Technical Writer  
-**Domain:** AI, Analytics, Automation  
-**Scope:** API guides, internal wikis, SOPs, and automation documentation
+**Domain:** AI, analytics, automation  
+
+**Scope:**
+- Developed API guides, internal wikis, automation documentation, and SOPs for AI/ML platforms
+- Supported engineering and delivery teams in creating user-centric technical content
 
 ---
 
-### 🔹 Touch'N'Go (Fintech, Malaysia)
-**Role:** UX Writer & Documentation Consultant  
-**Scope:** Mobile onboarding microcopy, SOPs, in-app help, and support content
+### 🔹 Touch'N'Go (Malaysia)
+**Role:** UX Writer and Documentation Consultant  
+**Domain:** Fintech  
+
+**Scope:**
+- Wrote UX microcopy, onboarding flows, SOPs, and customer support documentation for a mobile wallet application
+- Collaborated with UI/UX designers, PMs, and product teams
 
 ---
 
 ### 🔹 BMW USA
 **Role:** Content Writer (Ghostwriting)  
 **Duration:** May 2018 – Oct 2018  
-**Scope:** Research-driven blogs, UX documentation, case studies in the automotive domain
+
+**Scope:**
+- Produced research-driven blogs, UX documentation, and case studies related to automotive innovation and connected vehicles
 
 ---
 
 ### 🔹 Amazon
 **Role:** Product Writer (Ghostwriting)  
 **Duration:** Sep 2018 – Mar 2019  
-**Scope:** Product descriptions, SEO reviews, imagery-based content for e-commerce listings
+
+**Scope:**
+- Developed product descriptions, SEO content, and imagery-driven copy for Amazon marketplace listings
 
 ---
 
 ### 🔹 Western Union USA
 **Role:** Finance Content Writer  
 **Duration:** Nov 2017 – Sep 2018  
-**Scope:** SEO content for financial services and complete website content revamp
+
+**Scope:**
+- Wrote SEO-optimized web content for financial services, remittance solutions, and digital platforms
 
 ---
 
 ### 🔹 ShoutVox (New York, USA)
 **Role:** Writer, Editor, Technical Blogger  
 **Duration:** Apr 2016 – Jun 2019  
-**Scope:** B2B/B2C blogs, whitepapers, manuals, and case studies across sectors
+
+**Scope:**
+- Created blogs, whitepapers, case studies, and manuals across B2B and B2C sectors
+- Delivered ghostwritten content for startups and agencies across finance, tech, and lifestyle domains
 
 ---
 
-### 🔹 Horizon Hobby LLC.
+### 🔹 Horizon Hobby LLC
 **Role:** Remote Technical Writer  
 **Duration:** Sep 2015 – Nov 2016  
-**Scope:** Manuals, articles, blogs for RC planes, cars, and product line-up (ARRMA)
+
+**Scope:**
+- Authored manuals, blog posts, and product documentation for RC vehicles (ARRMA, Axial, Horizon)
 
 ---
 
 ### 🔹 The Road to Domestication
 **Role:** Lifestyle Content Writer  
 **Duration:** Dec 2016 – Oct 2017  
-**Scope:** Household/lifestyle blogs with SEO optimization and keyword research
+
+**Scope:**
+- Produced household lifestyle blogs with keyword research and SEO strategy
 
 ---
 
 ### 🔹 Fusioni Technologies
-**Role:** Technical Writer & Editor  
+**Role:** Technical Writer and Editor  
 **Duration:** Sep 2018 – Mar 2019  
-**Scope:** Web copy, technical documentation, and service/product writing for dev teams
+
+**Scope:**
+- Created technical documentation, product overviews, and marketing content for SaaS and retail tech platforms
 
 ---
 
-## 🌐 Domains I’ve Worked In
+## 🌐 Domains I Have Worked In
 
-- SaaS, Cloud, and Platform-as-a-Service  
-- Insurtech, Fintech, E-commerce  
-- Image Recognition, AI/ML, Automation  
-- Automotive UX and Electric Mobility  
-- Retail Tech, AR/VR, and Education  
-- Lifestyle & Consumer Brands
+- SaaS, cloud platforms, and platform-as-a-service solutions  
+- Insurtech, fintech, and e-commerce ecosystems  
+- AI, ML, image recognition, and autonomous retail  
+- Automotive UX and electric mobility  
+- Retail tech, AR/VR innovation, and education  
+- Lifestyle and consumer technology brands  
 
 ---
 
 ## 🤝 Engagement Styles
 
-- 🔧 Full-time Leadership Roles  
-- 📄 Contract & Project-Based Work  
-- 🧑‍💻 Remote & Freelance Engagements  
-- 🗂️ Ghostwriting for Enterprises and Founders  
-- 🧠 Mentoring Writers, Analysts, and Junior PMs
+- 🔧 Full-time leadership roles (permanent and strategic documentation ownership)  
+- 📄 Contract and project-based consulting (short- and mid-term engagements)  
+- 🧑‍💻 Remote and freelance writing for global teams  
+- 🗂️ Ghostwriting for enterprises, agencies, and individual founders  
+- 🧠 Mentoring writers, analysts, and junior product owners
 
 ---
 
-👉 Check the [Services](services.md) page for more details.
-📬 Ready to collaborate? Head to the [Contact](contact.md) page.
+👉 Visit the [Services](services.md) page for more details.  
+📬 Ready to collaborate? Check the [Contact](contact.md) page.
