@@ -4,9 +4,11 @@ This site is a curated collection of my work as a **Senior** and **Lead technica
 
 With over **10 years of experience**, I have led and delivered end-to-end documentation for Fortune 500 companies, product startups, agencies, and cross-functional tech teams. From building documentation systems for **Microsoft Teams** to creating platform-wide architecture content for **OneShield**, this portfolio reflects how I simplify complexity and structure knowledge at scale.
 
-**Explore my work and view my resume:**  
-[View Documentation Samples](Docu_overview.md) | [Download Resume](resume.pdf)
+**Interested in my work? Check out the following:**  
 
+- [View Documentation Samples](Docu_overview.md)
+- [Download My Resume](resume.pdf)
+- [Visit My GitHub Profile](https://github.com/harshkanth)
 
 ---
 
