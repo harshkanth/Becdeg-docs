@@ -42,3 +42,70 @@
     object-fit: contain !important;        /* Make sure the logo fits without stretching */
     max-width: 100% !important;            /* Prevent any overflow */
 }
+
+/* Tile container */
+.tile-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-evenly;
+    margin-top: 40px;
+    position: relative;
+  }
+  
+  /* Individual tile styles */
+  .doc-tile {
+    width: 220px; /* Adjusted width for a compact look */
+    height: 180px; /* Reduced height for compact design */
+    text-align: center;
+    background: #ffffff; /* White background */
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1); /* Light shadow */
+    border: 1px solid #e0e0e0; /* Light border */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    overflow: hidden; /* Prevent text from overflowing */
+    transition: transform 0.3s ease-in-out;
+    margin-bottom: 20px;
+    height: auto; /* Allow height to adjust based on content */
+  }
+  
+  .doc-tile a {
+    text-decoration: none;
+    color: #333;
+    display: block;
+    height: 100%; /* Ensure the entire tile is clickable */
+    overflow: hidden; /* Prevent overflow */
+  }
+  
+  .doc-tile h2 {
+    font-size: 35px;
+    margin-top: 10px;
+  }
+  
+  .doc-tile h3 {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 10px 0;
+  }
+  
+  .doc-tile p {
+    font-size: 14px;
+    line-height: 1.5;
+    margin-top: 10px;
+  }
+  
+  /* Hover effect */
+  .doc-tile:hover {
+    transform: translateY(-10px);
+  }
+  
+  /* Ensuring responsiveness on smaller screens */
+  @media (max-width: 768px) {
+    .doc-tile {
+      width: 100%;
+    }
+  }
