@@ -47,17 +47,20 @@ nav:
       - About Me: aboutme.md
       - Why BECDEG?: whybecdeg.md
   - Documentation:
-      - Overview: Docu_overview.md
+      - Overview: Documentation_overview.md
       - User Manuals: user-manuals.md
       - Step by Step Guides: 
-          - Overview: 
-              - Download and Install MS Teams Application: download_and _install_msteams.md
+          - Overview: step-by-step-guide-overview.md
+          - Download and Install MS Teams Application: download_and_install_msteams.md
       - How-To Guides: 
-          - Overview:
-              - How to Schedule a meeting in MS Teams Application: schedule_meeting_in_teams.md
-      - APIs: APIs.md
-      - Business User Guides: business-user-guides.md
-      - Case Studies: case-studies.md
+          - Overview: How_to_overview.md
+          - How to Schedule a meeting in MS Teams Application: schedule_meeting_in_teams.md
+      - APIs: 
+          - Overview: APIs.md
+      - Business User Guides: 
+          - Overview: business-user-guides.md
+      - Case Studies: 
+          - Overview: case-studies.md
   - Experiences: experience.md
   - Services: services.md
   - Contact: contact.md
@@ -67,3 +70,6 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.blocks.caption
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
