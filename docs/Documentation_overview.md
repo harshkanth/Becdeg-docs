@@ -22,7 +22,7 @@ Guides to walk you through specific tasks.
     <h2>🔧</h2>
     <h3>Step by Step Guides</h3>
     <p>Follow our easy steps for setup.</p>
-    <a href="step-by-step-guide-overview">View Guides</a>
+    <a href="https://becdeg.com/step-by-step-guide-overview/">View Guides</a>
   </div>
 </div>
 
@@ -34,7 +34,7 @@ These guides offer instructions on specific actions.
     <h2>💡</h2>
     <h3>How-To Guides</h3>
     <p>Quick tips and how-to's for advanced actions.</p>
-    <a href="How_to_overview">View How-Tos</a>
+    <a href="https://becdeg.com/How_to_overview/">View How-Tos</a>
   </div>
 </div>
 
@@ -46,7 +46,7 @@ Learn about our APIs and how to use them.
     <h2>⚙️</h2>
     <h3>APIs</h3>
     <p>Learn to integrate with our APIs.</p>
-    <a href="APIs">View API Documentation</a>
+    <a href="https://becdeg.com/APIs/">View API Documentation</a>
   </div>
 </div>
 
@@ -58,7 +58,7 @@ Guides aimed at business users to leverage tools effectively.
     <h2>📈</h2>
     <h3>Business User Guides</h3>
     <p>Resources tailored to business users.</p>
-    <a href="https://becdeg.com/user-manuals/">View Business Guides</a>
+    <a href="https://becdeg.com/business-user-guides/">View Business Guides</a>
   </div>
 </div>
 
@@ -70,7 +70,7 @@ Explore real-life case studies from our customers.
     <h2>📊</h2>
     <h3>Case Studies</h3>
     <p>Success stories from users.</p>
-    <a href="case-studies">View Case Studies</a>
+    <a href="https://becdeg.com/case-studies/">View Case Studies</a>
   </div>
 </div>
 
