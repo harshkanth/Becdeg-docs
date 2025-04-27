@@ -1,8 +1,12 @@
 # Welcome to My Documentation Portfolio
 
-This site is a curated collection of my work as **Harsh Kanth**—a **Senior** and **Lead technical writer**, **content strategist** and **designer**, **UX writer**, and **documentation acrchitect** and **owner** — designed to showcase the depth, precision, and versatility of the content I create.
+This site is a curated collection of my work as a **Senior** and **Lead technical writer**, **content strategist** and **designer**, **UX writer**, and **documentation acrchitect** and **owner** — designed to showcase the depth, precision, and versatility of the content I create.
 
 With over **10 years of experience**, I have led and delivered end-to-end documentation for Fortune 500 companies, product startups, agencies, and cross-functional tech teams. From building documentation systems for **Microsoft Teams** to creating platform-wide architecture content for **OneShield**, this portfolio reflects how I simplify complexity and structure knowledge at scale.
+
+**Explore my work and view my resume:**  
+[View Documentation Samples](Docu_overview.md) | [Download Resume](resume.pdf)
+
 
 ---
 
