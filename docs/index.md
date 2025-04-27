@@ -6,9 +6,9 @@ With over **10 years of experience**, I have led and delivered end-to-end docume
 
 **Interested in my work? Check out the following:**  
 
-- [View Documentation Samples](Documentation_overview.md)
-- [Download My Resume](HK_resume.pdf)
-- [Visit My GitHub Profile](https://github.com/harshkanth)
+- [View Documentation Samples](Documentation_overview.md) 📚 
+- [Download My Resume](HK_resume.pdf) 📄 
+- [Visit My GitHub Profile](https://github.com/harshkanth) :octicons-mark-github-16: 
 
 ---
 

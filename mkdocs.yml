@@ -48,7 +48,8 @@ nav:
       - Why BECDEG?: whybecdeg.md
   - Documentation:
       - Overview: Documentation_overview.md
-      - User Manuals: user-manuals.md
+      - User Manuals: 
+          - Overview: user_manuals_overview.md
       - Step by Step Guides: 
           - Overview: step-by-step-guide-overview.md
           - Download and Install MS Teams Application: download_and_install_msteams.md
@@ -73,3 +74,6 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
