@@ -9,7 +9,7 @@ With over **10 years of experience**, I have led and delivered end-to-end docume
 **Interested in my work? Check out the following:**  
 
 - [View Documentation Samples](Documentation_overview.md) 📚 
-- [Download My Resume](Harsh_Kanth_10_Years_Tech_Writer.pdf) 📄 
+- [Download My Resume](Harsh_Kanth_10_Year_Tech_Writer.pdf) 📄 
 - [Visit My GitHub Profile](https://github.com/harshkanth) :octicons-mark-github-16:
 
 !!! tip
