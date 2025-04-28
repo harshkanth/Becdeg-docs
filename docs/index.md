@@ -10,6 +10,9 @@ With over **10 years of experience**, I have led and delivered end-to-end docume
 - [Download My Resume](HK_resume.pdf) 📄 
 - [Visit My GitHub Profile](https://github.com/harshkanth) :octicons-mark-github-16: 
 
+!!! tip
+    Don’t forget to check out the [What's New](Whatsnew.md) section to see the latest updates and additional on our documentation website!
+
 ---
 
 ## Why This Portfolio Exists

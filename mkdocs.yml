@@ -46,6 +46,7 @@ nav:
       - The Docs Behind Docs: index.md
       - About Me: aboutme.md
       - Why BECDEG?: whybecdeg.md
+  - What's New?: Whatsnew.md
   - Documentation:
       - Overview: Documentation_overview.md
       - User Manuals: 

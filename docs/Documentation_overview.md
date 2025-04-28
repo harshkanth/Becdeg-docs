@@ -10,7 +10,7 @@ Below are the user manuals for different applications.
     <h2>📘</h2>
     <h3>User Manuals</h3>
     <p>Comprehensive manuals to get started.</p>
-    <a href="user-manuals">View Manuals</a>
+    <a href="https://becdeg.com/user_manuals_overview/">View Manuals</a>
   </div>
 </div>
 
@@ -82,5 +82,3 @@ We encourage you to explore each section and refer to them for any questions or 
 
 ---
 
-!!! tip
-    Don’t forget to check out our **Case Studies** to see how other organizations have successfully implemented our solution!

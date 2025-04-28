@@ -17,7 +17,7 @@ Feel free to reach out through any of the options below:
 
 - 📞 **WhatsApp / Call:** [+91 78276 20848](https://wa.me/917827620848)  
 - 📧 **Email:** harshhh10@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/harsh-kanth-53974164](https://www.linkedin.com/in/harsh-kanth-53974164/)  
+- 💼 **LinkedIn:** [Harsh Kanth](https://www.linkedin.com/in/harsh-kanth-53974164/)  
 - 🌐 **Website:** [becdeg.com](https://becdeg.com)
 
 ---

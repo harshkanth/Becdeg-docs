@@ -24,13 +24,41 @@
     --md-code-fg-color: #ECEFF1;
 }
 
+/* Change site name color */
+.md-header__title {
+  color: #E0E0E0 !important;
+}
+
+/* Remove bold and reduce size of Site Name */
+.md-header__topic:first-child {
+  font-weight: 400 !important; /* Normal font */
+  font-size: 0.95rem !important; /* Slightly smaller size */
+}
+
+
+
+/* ===============================
+   Custom color for the site name in the header
+================================== */
+.md-header .md-logo {
+  color: var(--md-primary-fg-color, #268A8C) !important; /* Set site name color */
+}
+
+/* Optional: For better visibility, you can also style the link in the header */
+.md-header .md-logo a {
+  color: var(--md-primary-fg-color, #268A8C) !important;
+  font-weight: bold;
+  text-decoration: none;  /* Optional: Remove any underline */
+}
+
+
 /* ===============================
    Custom Logo Size Override
 ================================== */
 .md-header .md-logo {
     display: block !important;             /* Make sure it's treated as a block element */
     max-width: 100% !important;            /* Prevent overflowing */
-    width: 50px !important;               /* Force width to 550px */
+    width: 75px !important;               /* Force width to 550px */
     height: auto !important;               /* Maintain aspect ratio */
     margin: 10px auto !important;          /* Center the logo with spacing */
     padding: 0 !important;                 /* Remove any padding */
@@ -43,7 +71,9 @@
     max-width: 100% !important;            /* Prevent any overflow */
 }
 
-/* Tile container */
+/* ===============================
+   Tile container
+================================== */
 .tile-container {
     display: flex;
     flex-wrap: wrap;
@@ -51,61 +81,70 @@
     justify-content: space-evenly;
     margin-top: 40px;
     position: relative;
-  }
-  
-  /* Individual tile styles */
-  .doc-tile {
+}
+
+/* ===============================
+   Individual tile styles
+================================== */
+.doc-tile {
     width: 220px; /* Adjusted width for a compact look */
     height: 180px; /* Reduced height for compact design */
     text-align: center;
-    background: #ffffff; /* White background */
+    background: var(--md-default-bg-color, #ffffff); /* Use theme variable for background color */
     border-radius: 12px;
     padding: 20px;
     box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1); /* Light shadow */
-    border: 1px solid #e0e0e0; /* Light border */
+    border: 1px solid var(--md-border-color, #e0e0e0); /* Use theme variable for border */
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
     overflow: hidden; /* Prevent text from overflowing */
-    transition: transform 0.3s ease-in-out;
+    transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out;
     margin-bottom: 20px;
     height: auto; /* Allow height to adjust based on content */
-  }
-  
-  .doc-tile a {
+}
+
+/* ===============================
+   Link styling in tiles
+================================== */
+.doc-tile a {
     text-decoration: none;
-    color: #333;
+    color: var(--md-primary-fg-color, #333); /* Use theme color for text */
     display: block;
     height: 100%; /* Ensure the entire tile is clickable */
     overflow: hidden; /* Prevent overflow */
-  }
-  
-  .doc-tile h2 {
+}
+
+.doc-tile h2 {
     font-size: 35px;
     margin-top: 10px;
-  }
-  
-  .doc-tile h3 {
+}
+
+.doc-tile h3 {
     font-size: 18px;
     font-weight: 600;
     margin: 10px 0;
-  }
-  
-  .doc-tile p {
+}
+
+.doc-tile p {
     font-size: 14px;
     line-height: 1.5;
     margin-top: 10px;
-  }
-  
-  /* Hover effect */
-  .doc-tile:hover {
+}
+
+/* ===============================
+   Hover effect on tiles
+================================== */
+.doc-tile:hover {
     transform: translateY(-10px);
-  }
-  
-  /* Ensuring responsiveness on smaller screens */
-  @media (max-width: 768px) {
+}
+
+/* ===============================
+   Ensuring responsiveness on smaller screens
+================================== */
+@media (max-width: 768px) {
     .doc-tile {
-      width: 100%;
+        width: 100%;
     }
-  }
+}

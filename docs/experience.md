@@ -7,6 +7,16 @@ This journey spans global MNCs, fast-paced startups, US-based agencies, and deep
 
 ## 🧱 Full-Time Roles
 
+### 🏢 EXL (Current Contract)
+**Role:** Senior Technical Writer  
+**Domain:** AI, analytics, automation  
+
+**Scope:**
+- Developed API guides, internal wikis, automation documentation, and SOPs for AI/ML platforms
+- Supported engineering and delivery teams in creating user-centric technical content
+
+---
+
 ### 🏢 OneShield Software (India)
 **Role:** Lead Technical Writer  
 **Duration:** March 2023 – Jan 2025  
@@ -57,16 +67,6 @@ This journey spans global MNCs, fast-paced startups, US-based agencies, and deep
 ---
 
 ## 🛠️ Freelance and Remote Work
-
-### EXL (Current Contract)
-**Role:** Senior Technical Writer  
-**Domain:** AI, analytics, automation  
-
-**Scope:**
-- Developed API guides, internal wikis, automation documentation, and SOPs for AI/ML platforms
-- Supported engineering and delivery teams in creating user-centric technical content
-
----
 
 ### Touch'N'Go (Malaysia)  
 **Role:** Technical Writer and Documentation Consultant  
