@@ -1,18 +1,18 @@
-# What's new for visitors on BECDEG Docs :rocket:
+# What's new for visitors on BECDEG Doc Studio :loud_sound:
 
-## User Manuals
-
-|Write up|Description|
-|--------|-----------|
-|Ms teams|Guide Added|
-
-## Step by Step Guides
+## User manuals
 
 |Write up|Description|
 |--------|-----------|
 |Ms teams|Guide Added|
 
-## How-to Guides
+## Step by step guides
+
+|Write up|Description|
+|--------|-----------|
+|Ms teams|Guide Added|
+
+## How-to guides
 
 |Write up|Description|
 |--------|-----------|
@@ -24,13 +24,13 @@
 |--------|-----------|
 |Ms teams|Guide Added|
 
-## Business User Guides
+## Business user guides
 
 |Write up|Description|
 |--------|-----------|
 |Ms teams|Guide Added|
 
-## Case Studies
+## Case studies
 
 |Write up|Description|
 |--------|-----------|

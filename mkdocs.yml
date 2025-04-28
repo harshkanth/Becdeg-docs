@@ -43,25 +43,25 @@ plugins:
 
 nav:
   - Home:
-      - The Docs Behind Docs: index.md
-      - About Me: aboutme.md
+      - The docs behind docs: index.md
+      - About me: aboutme.md
       - Why BECDEG?: whybecdeg.md
-  - What's New?: Whatsnew.md
+  - What's new?: Whatsnew.md
   - Documentation:
       - Overview: Documentation_overview.md
-      - User Manuals: 
+      - User manuals: 
           - Overview: user_manuals_overview.md
-      - Step by Step Guides: 
+      - Step by step guides: 
           - Overview: step-by-step-guide-overview.md
-          - Download and Install MS Teams Application: download_and_install_msteams.md
-      - How-To Guides: 
+          - Download and install MS Teams application: download_and_install_msteams.md
+      - How-to guides: 
           - Overview: How_to_overview.md
-          - How to Schedule a meeting in MS Teams Application: schedule_meeting_in_teams.md
+          - How to schedule a meeting in MS Teams application: schedule_meeting_in_teams.md
       - APIs: 
           - Overview: APIs.md
-      - Business User Guides: 
+      - Business user guides: 
           - Overview: business-user-guides.md
-      - Case Studies: 
+      - Case studies: 
           - Overview: case-studies.md
   - Experiences: experience.md
   - Services: services.md

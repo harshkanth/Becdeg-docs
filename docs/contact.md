@@ -1,8 +1,9 @@
-# Let's Connect
+# Let's connect
 
-Whether you're a recruiter looking for a technical writing expert, a product owner in need of scalable documentation, or a founder building your first knowledge base — I'm excited to hear from you.
+Whether you're a recruiter looking for a technical writing expert, a product owner in need of scalable documentation, or a founder building your first knowledge base, I'm excited to hear from you.
 
-I bring a decade of experience across full-time roles, freelance projects, and consulting work — and I’m currently open to:
+
+I bring a decade of experience across full-time roles, freelance projects, and consulting work and I’m currently open to:
 
 - ✍️ Full-time and long-term roles (remote or hybrid)
 - 🛠 Freelance and contract-based projects
@@ -11,7 +12,7 @@ I bring a decade of experience across full-time roles, freelance projects, and c
 
 ---
 
-## 📬 Contact Methods
+## 📬 Contact methods
 
 Feel free to reach out through any of the options below:
 
@@ -22,15 +23,16 @@ Feel free to reach out through any of the options below:
 
 ---
 
-## 💡 Need a Custom Proposal?
+## 💡 Need a custom proposal?
 
-If you'd like to:
+If you would like to:
+
 - Request a documentation strategy consultation  
 - Build your company's help center  
 - Improve product onboarding content  
 - Or simply learn more about how I work...
 
-Just drop me a message — I usually reply within a day.
+Just drop me a message and I shall reply within a day.
 
 ---
 

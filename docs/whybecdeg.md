@@ -2,9 +2,9 @@
 
 ## A name, a legacy, a philosophy
 
-BECDEG is more than an identity—it is the heart behind everything I do.
+BECDEG is more than an identity, it is the heart behind everything I do.
 
-Each letter carries the essence of six lives that shaped mine in unforgettable ways—my beloved companions who gave me love, loyalty, wisdom, and an unspoken promise of always being there.
+Each letter carries the essence of six lives that shaped mine in unforgettable ways, my beloved companions who gave me love, loyalty, wisdom, and an unspoken promise of always being there.
 
 - **B** for **Bunny** – the guardian soul, always watching, always guiding
 - **E** for **Elsa** – the graceful presence that whispered calm and clarity
@@ -20,7 +20,7 @@ Cheekki and Coco share the **"C"**, reminding me that life isn’t about perfect
 
 ## The soul behind the site
 
-This site, BECDEG, serves as a **living portfolio**—not just of my professional work, but also of my philosophy:  
+This site, BECDEG, serves as a **living portfolio**, not just of my professional work, but also of my philosophy:  
 **Work should carry meaning, connection, and a personal spark.**
 
 Every article, document, or strategy I create is guided by the values that BECDEG embodies:
@@ -46,7 +46,7 @@ The spirit of BECDEG reminds me to create with heart, not just logic.
 
 ### Documenting with care
 
-This site itself—built using **MkDocs**—is an example of how even technical or professional documentation can be beautiful and human.  
+This site itself—built using **MkDocs**, an example of how even technical or professional documentation can be beautiful and human.  
 From UX writing to SOPs, I believe that every document should feel like it was written *for* someone, not just *at* them.
 
 ---
@@ -64,11 +64,10 @@ BECDEG is a quiet promise to:
 
 ---
 
-## In memory. In motion.
+## In motion.
 
-This site is a portfolio—but it’s also a tribute.  
-To those who walk with me and the values I carry.  
-BECDEG is not just a brand—it’s a living reminder that the most powerful work is built not just with skills, but with **heart**.
+This site is a portfolio, but it’s also a tribute. To those who walk with me and the values I carry.  
+BECDEG is not just a brand, it’s a living reminder that the most powerful work is built not just with skills, but with **heart**.
 
 Thank you for taking the time to understand the soul behind it.
 

@@ -1,11 +1,9 @@
----
 tags:
   - Technical Writer
----
 
-# About Me
+# About me
 
-Hi, I'm **Harsh Kanth**—a **senior technical writer**, **content dessigner**, **documentation architect**, and **documentation specialist** with **10 years of experience** building world-class content systems for companies across domains like **SaaS**, **AI**, **fintech**, **e-commerce**, **insurtech**, **cloud**, and **retail tech**.
+Hi, I'm **Harsh Kanth**, a **senior technical writer**, **content designer**, **documentation architect**, and **documentation specialist** with **10 years of experience** building world-class content systems for companies across domains like **SaaS**, **AI**, **fintech**, **e-commerce**, **insurtech**, **cloud**, and **retail tech**.
 
 I create documentation and content that bridges complexity and clarity—enabling users to self-serve, developers to integrate, and products to grow faster.
 
@@ -13,11 +11,9 @@ That’s me:
 
 ![My image](Myimage.png){width=300px}
 
----
+## What i do
 
-## What I Do
-
-I work across the full content lifecycle—from zero-to-one documentation builds to optimizing legacy systems.  
+I work across the full content lifecycle from zero-to-one documentation builds to optimizing legacy systems.  
 My core specialties include:
 
 - **🛠 Technical writing**  
@@ -35,36 +31,28 @@ My core specialties include:
 - **📢 Content writing and SEO**  
   Web copy, product descriptions, blogs, whitepapers, case studies, and ghostwritten content for global clients
 
----
-
-## Experience That Matters
+## Experience that matters
 
 Over the last decade, I have:
 
 - Worked with global brands like **Microsoft**, **Amazon**, **BMW USA**, and **Western Union** (direct and ghostwriting)  
 - Led documentation teams at **OneShield**, **Vision Group**, and **Fusioni Technologies**  
-- Delivered content for AI, AR/VR, SDKs, SaaS products, automation platforms, and brick-and-mortar retail technologies  
+- Delivered content for **AI**, **AR/VR**, **SDKs**, **SaaS products**,** automation platforms**, and brick-and-mortar retail technologies  
 - Migrated static documentation into GitHub-based systems using **MkDocs**, **CI/CD pipelines**, and **Markdown workflows**  
 - Worked remotely with teams across the United States, Europe, and the Asia-Pacific region  
 - Created scalable documentation systems aligned with business goals, engineering workflows, and user journeys
 
----
-
-## 🛠️ Tools, Platforms, and Languages
+## 🛠️ Tools, platforms, and languages
 
 Over 10 years, I have worked extensively with modern documentation tools, authoring platforms, and technologies—enabling me to build, migrate, and scale content systems efficiently.
 
----
-
-### 📝 Authoring and Documentation Tools
+### 📝 Authoring and documentation tools
 
 - Markdown, AsciiDoc, reStructuredText  
 - GitHub Pages, MkDocs, Sphinx  
 - Adobe RoboHelp, Adobe FrameMaker, MadCap Flare  
 - Camtasia (for training modules)  
 - Oxygen XML Editor
-
----
 
 ### 🛠 Platforms and CMS
 
@@ -73,9 +61,7 @@ Over 10 years, I have worked extensively with modern documentation tools, author
 - WordPress CMS, Google Docs  
 - GitHub, GitLab, Bitbucket
 
----
-
-### 🔧 Workflow and Development Tools
+### 🔧 Workflow and development tools
 
 - Git, Jira, Slack, Trello, Figma  
 - Postman (API testing), Swagger/OpenAPI  
@@ -85,28 +71,26 @@ Over 10 years, I have worked extensively with modern documentation tools, author
 - Microsoft Azure Cloud and Azure Active Directory  
 - Ngrok, IoT tools
 
----
-
-### 🛡️ Technical and Backend Technologies
+### 🛡️ Technical and backend technologies
 
 - SQL queries and database documentation  
 - HTML, CSS  
 - XML and JSON metadata documentation  
 - CI/CD pipeline tools: Jenkins, Bamboo, JFrog, Nexus
 
----
-
-### 💻 Programming Languages
+### 💻 Programming languages
 
 - C++  
 - C#  
-- Basic Java and JavaScript (in progress)  
-- Python (in progress)  
-- Node.js (in progress)
+- Basic Java and JavaScript  
+- Python
+- Node.js
+- MATLAB
+- Makrdown
+- HTML
+- CSS
 
----
-
-### 🌐 Domains I Have Worked In
+### 🌐 Domains I have worked in
 
 - SaaS and platform services  
 - Insurtech, fintech, and e-commerce  
@@ -115,22 +99,18 @@ Over 10 years, I have worked extensively with modern documentation tools, author
 - Cloud infrastructure  
 - Edtech and consumer applications
 
----
-
-## My Approach
+## My approach
 
 Every document, guide, or help article I create follows four key principles:
 
-- **Clarity**—Language that’s accessible and user-centered  
-- **Structure**—Organized with reusability and scalability in mind  
-- **Empathy**—Designed to solve real user and developer pain points  
-- **Maintainability**—Easy to evolve as the product grows
+- **Clarity:** Language that’s accessible and user-centered  
+- **Structure:** Organized with reusability and scalability in mind  
+- **Empathy:** Designed to solve real user and developer pain points  
+- **Maintainability:** Easy to evolve as the product grows
 
-Whether I am building from scratch or auditing legacy documentation, I focus on writing that works—for your users, your product, and your business.
+Whether I am building from scratch or auditing legacy documentation, I focus on writing that works for your users, your product, and your business.
 
----
-
-## Let's Connect
+## Let's connect
 
 Looking to build better documentation? Need a system that scales? Or want someone who can plug into your team and **own the documentation** from strategy to delivery?
 

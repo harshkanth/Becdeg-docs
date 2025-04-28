@@ -1,11 +1,11 @@
-# Professional Experience
+# Professional experience
 
 With over **10 years of diverse experience**, I have worked as a **technical writer**, **documentation strategist**, **UX writer**, **editor**, and **content consultant**.  
 This journey spans global MNCs, fast-paced startups, US-based agencies, and deeply technical freelance assignments.
 
 ---
 
-## 🧱 Full-Time Roles
+## 🧱 Full-Time roles
 
 ### 🏢 EXL (Current Contract)
 **Role:** Senior Technical Writer  
@@ -66,7 +66,7 @@ This journey spans global MNCs, fast-paced startups, US-based agencies, and deep
 
 ---
 
-## 🛠️ Freelance and Remote Work
+## 🛠️ Freelance and remote work
 
 ### Touch'N'Go (Malaysia)  
 **Role:** Technical Writer and Documentation Consultant  
@@ -145,7 +145,7 @@ This journey spans global MNCs, fast-paced startups, US-based agencies, and deep
 ---
 
 
-## 🌐 Domains I Have Worked In
+## 🌐 Domains I have worked in
 
 - SaaS, cloud platforms, and platform-as-a-service solutions  
 - Insurtech, fintech, and e-commerce ecosystems  
@@ -156,7 +156,7 @@ This journey spans global MNCs, fast-paced startups, US-based agencies, and deep
 
 ---
 
-## 🤝 Engagement Styles
+## 🤝 Engagement styles
 
 - 🔧 Full-time leadership roles (permanent and strategic documentation ownership)  
 - 📄 Contract and project-based consulting (short- and mid-term engagements)  
