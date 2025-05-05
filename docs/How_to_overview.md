@@ -1,16 +1,35 @@
-# How-to guides
+# How-to guide 🛠️
 
-The **How-to guides** section offers focused instructions for accomplishing specific goals using available features and tools. These guides are intended for users who are already familiar with the system interface and are looking for help performing targeted tasks efficiently.
+The **How-to guide** section is designed to provide users with concise instructions for performing specific tasks or solving particular problems. These guides focus on practical applications and are ideal for users seeking quick, actionable solutions.
 
-Each how-to guide provides step-based solutions for solving a particular problem or configuring a specific feature, without the broader context or theory behind it.
+Each guide is structured to give you just what you need to complete your task without unnecessary details, making it an efficient resource for troubleshooting and learning.
 
-> 📌 _Use the space below to insert a table or list of how-to guides as they are developed._
+!!! note
+    This section will be continuously updated as new guides are created._
 
-These guides are structured to include:
+## What you can expect:
 
-- A concise problem statement or task objective
-- Contextual information when needed
-- Sequential instructions to complete the task
-- Optional tips, warnings, or related references
+- 🔍 **Quick answers** for common tasks
+- ⚡ **Simple solutions** to problems or errors
+- 💡 **Helpful tips** to make tasks easier
+- 🖼️ **Screenshots or videos** where necessary for clarity
 
-This section is ideal for users looking to perform isolated tasks without reading through full user manuals or broader workflows.
+---
+
+> 📂 _Example:_
+
+| Guide Title                   | Description                              | Status   |
+|--------------------------------|------------------------------------------|----------|
+
+
+---
+
+## Who is it for?
+This section is for:
+
+- 👨‍💻 **Users** who need help with specific tasks or workflows
+- 🧑‍🔧 **Technical teams** who require quick, practical instructions for troubleshooting and implementation
+- 📈 **Product owners** looking to understand and implement platform features efficiently
+
+
+For any suggestions or new guide requests, please contact the documentation team or raise an issue in the repository.

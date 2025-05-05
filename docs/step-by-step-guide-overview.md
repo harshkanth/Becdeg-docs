@@ -1,17 +1,34 @@
-# Step-by-step guides
+# Step-by-step guide 🧭
 
-The **Step-by-step guides** section provides concise, actionable walkthroughs designed to help users accomplish specific tasks with precision and ease. These guides are tailored for users who prefer hands-on, task-oriented instructions rather than broader conceptual overviews.
+The **Step-by-step guide** section is your go-to companion for executing specific tasks with precision and clarity. Whether you're a first-time user or revisiting a task, these guides walk you through each action one step at a time — no guesswork, just results.
 
-Each guide is focused on a particular feature or use case, offering a linear set of instructions that are easy to follow and implement.
+!!! tip
+    Follow each step in sequence to ensure success.
 
-> 📌 _Insert the list of available step-by-step guides in the table below as they are created._
+## 📋 What you'll find here:
 
-The guides typically include:
+- **Sequential task breakdowns**  
+  Clear, numbered instructions for performing platform-specific actions.
 
-- Clearly defined goals or outcomes
-- Numbered instructions in sequential order
-- Supporting screenshots or visual cues (where needed)
-- Important notes, warnings, or best practices
-- Troubleshooting tips for common errors
+- **Screenshots and UI highlights**  
+  Visual cues to help you locate buttons, fields, or menus.
 
-This section is continually expanded to support both new and advanced users through practical, real-world scenarios.
+- **Expected outcomes**  
+  Know what to expect at each stage of the task.
+
+- **Tips and alerts**  
+  Helpful notes to avoid common mistakes or pitfalls.
+
+- **Validation checks**  
+  Ensure each step worked before moving to the next.
+
+## 🚀 Who is it for?
+This section is for:
+
+- New users who prefer clear directions
+- Support teams assisting end users
+- Trainers and onboarding specialists
+
+This section is regularly updated as workflows evolve. Check back often for the latest processes and improvements.
+
+> 📌 _Add links to individual step-by-step guides below as they are published._

@@ -1,10 +1,34 @@
-# Business user guides
+# Business user guide 📘
 
-The **Business user guides** section is designed to support non-technical users in effectively navigating and leveraging the platform’s capabilities. These guides provide practical, scenario-based instructions tailored for business roles such as analysts, managers, and operations teams. They cover routine workflows, decision-making processes, and business-critical use cases.
+The **Business user guide** section provides comprehensive resources for business users to understand how to leverage the platform for strategic decision-making, operational efficiency, and overall business growth. It covers critical concepts, tools, and best practices to empower businesses to make the most of the platform.
 
-Each guide focuses on ease of use, with step-by-step explanations, clear visuals, and context-specific tips to ensure that users can independently perform key actions without relying on technical teams.
+!!! note
+    This guide is continuously updated to include the latest features and business-focused tools.
+
+## What you can expect:
+
+- 🧑‍💼 **Role-specific guidance**, tailored to different business needs
+- 📊 **Data insights and analytics** to drive decision-making
+- 💼 **Best practices** for optimizing business processes
+- 🔧 **Tool usage and configuration** for business users
+- 💡 **Strategic tips** for leveraging the platform to improve business outcomes
+
+---
+
+📂 _Example Topics:_
+
+| Guide Topic                         | Description                                  | Read More                     |
+|--------------------------------------|----------------------------------------------|-------------------------------|
 
 
-| Guide Title | Description | Link |
-|-------------|-------------|------|
-| _To be added_ | _To be added_ | _To be added_ |
+---
+
+## Who is it for?
+This section is for:
+
+- 🧑‍💼 **Business users** looking to maximize platform tools for operational efficiency
+- 📊 **Data analysts** and **product managers** seeking insights to improve decision-making
+- 💼 **Executives** seeking strategic ways to use the platform for growth and success
+
+
+For deeper insights or specific business needs, explore our expanded resources or contact us for tailored consultations.
