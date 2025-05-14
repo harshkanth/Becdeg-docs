@@ -56,7 +56,7 @@ nav:
           - Download and install MS Teams application: download_and_install_msteams.md
       - How-to guides: 
           - Overview: How_to_overview.md
-          - How to schedule a meeting in MS Teams application: schedule_meeting_in_teams.md
+          - How to schedule a meeting in MS Teams application: meetings_teams/schedule_meeting_in_teams.md
       - APIs: 
           - Overview: APIs.md
       - Business user guides: 
